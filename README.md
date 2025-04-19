@@ -4,6 +4,9 @@ A modular, event-driven Reaction System built on top of Unreal Engine's Gameplay
 
 Designed to allow developers and designers to define reactions to attribute changes (like health or stamina), without writing custom logic in every character or pawn. Reactions can apply/remove gameplay effects, trigger cues, send events, or execute custom logic — all configurable via DataAssets.
 
+### Feature Design Proposal:  
+[View on Notion](https://www.notion.so/Gameplay-Reaction-System-Feature-Design-Proposal-1da2cb6e5e86807eb1defb72d0e0f902?pvs=4)
+
 ---
 
 ## ⚙️ Core Features
