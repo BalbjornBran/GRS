@@ -9,7 +9,7 @@ Designed to allow developers and designers to define reactions to attribute chan
 
 
 ### Video Explanation:  
-[View on Youtube]([https://youtu.be/UYaGeYylHtQ])
+[View on Youtube](https://youtu.be/UYaGeYylHtQ)
 
 
 ---
