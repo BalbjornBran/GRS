@@ -7,6 +7,11 @@ Designed to allow developers and designers to define reactions to attribute chan
 ### Feature Design Proposal:  
 [View on Notion](https://www.notion.so/Gameplay-Reaction-System-Feature-Design-Proposal-1da2cb6e5e86807eb1defb72d0e0f902?pvs=4)
 
+
+### Video Explanation:  
+[View on Youtube]([https://youtu.be/UYaGeYylHtQ])
+
+
 ---
 
 ## ⚙️ Core Features
